@@ -10,8 +10,7 @@ Credits:
 > [!WARNING]
 > **Generate you oun SMBIOS for MacBookPro16,2**
 
-> **Tested on macOS 15 Sequoia**
-> **Try macOS 14 and lower, 15 unstable**
+> **Tested on macOS 15 Sequoia. Try macOS 14 and lower, 15 unstable**
 
 # Hardware Specifications
 | Component | Status | Notes |
