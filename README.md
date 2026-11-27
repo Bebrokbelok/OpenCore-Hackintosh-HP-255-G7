@@ -8,8 +8,9 @@ Credits:
 [GenSMBIOS](https://github.com/corpnewt/gensmbios)
 
 > [!WARNING]
-> **Generate you oun SMBIOS for MacBookPro16,3**
-> **Tested on macOS macOS 15 Sequoia**
+> **Generate you oun SMBIOS for MacBookPro16,2**
+
+> **Tested on macOS 15 Sequoia**
 # Hardware Specifications
 | Component | Status | Notes |
 |---|---|---|
@@ -29,6 +30,7 @@ Credits:
 
 # BIOS Settings
 CSM (OFF)
+
 The BIOS is stripped-down, so everything else is already configured in "config.plist"
 
 # Kexts
