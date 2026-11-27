@@ -9,6 +9,7 @@ Credits:
 
 > [!WARNING]
 > **Generate you oun SMBIOS for MacBookPro16,3**
+> **Tested on macOS macOS 15 Sequoia**
 # Hardware Specifications
 | Component | Status | Notes |
 |---|---|---|
