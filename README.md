@@ -28,6 +28,9 @@ Credits:
 | Brightness | Works | Keys (F2-F3) |
 | Sleep | Not working |  |
 
+> [!WARNING]
+> **Disable NootedRed, complete install and setup wizard. Once you reach the desktop, turn it on**
+
 # BIOS Settings
 CSM (OFF)
 
